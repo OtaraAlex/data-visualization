@@ -1,8 +1,8 @@
 # Visualizing Data
 
-* This bar chart shows population of the Top 10 most watched Tv Shows of all time. 
-* The data comes from **[IMDb](https://www.imdb.com/list/ls095964455/?sort=num_votes,desc&st_dt=&mode=detail&page=1)**. 
-* It also demonstrates customization of D3 axes.
+* This bar chart shows the Top 10 Most Watched TV Shows of all time. 
+* I got the data from **[IMDb](https://www.imdb.com/list/ls095964455/?sort=num_votes,desc&st_dt=&mode=detail&page=1)**. 
+* It demonstrates customization of D3 axes.
 
 ## Live link
 https://otaraalex.github.io/data-visualization/
