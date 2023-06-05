@@ -5,7 +5,7 @@
 * It also demonstrates customization of D3 axes.
 
 ## Live link
-https://otaraalex.github.io/data_visualization/
+https://otaraalex.github.io/data-visualization/
 
 ## Screenshot
 ![por](https://user-images.githubusercontent.com/111053808/243376946-b935fc47-e086-442b-a1db-a29a5eb431a8.png)
